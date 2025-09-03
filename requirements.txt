@@ -1,2 +1,7 @@
 fastmcp
 fastapi
+mcp[cli]
+python-dotenv
+httpx
+ipykernel
+groq
